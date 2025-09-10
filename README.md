@@ -48,8 +48,8 @@ You can host this site on any static web hosting service (GitHub Pages, Netlify,
 
 ## Contact
 
-- **Phone:** 0707895486
-- **Email:** makaumw55@gmail.com
+- **Phone:** 0726740469
+- **Email:** davidmugambi104@gmail.com
 - **Location:** Nairobi, Kenya
 
 ---
